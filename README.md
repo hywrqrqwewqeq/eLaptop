@@ -1,4 +1,4 @@
-# eLaptop# eLaptop
+# eLaptop
 e-commerce website using .NET Core 5.0
 
 ## **Overview :**
